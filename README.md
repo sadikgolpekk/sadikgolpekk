@@ -1,5 +1,7 @@
 # Merhaba, Ben Sadık Gölpek! 👋
 
+![Benim Fotoğrafım](avesis.jpg)
+
 Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kod yazmayı, öğrenmeyi ve somut projeler üretmeyi seviyorum. 💻✨
 
 ## 🎯 İlgi Alanlarım:
@@ -19,6 +21,8 @@ Herhangi bir sorunuz olursa veya iş birliği yapmak isterseniz, benimle iletiş
 
 # Hi, I'm Sadık Gölpek! 👋
 
+![My Photo](avesis.jpg)
+
 I'm a Computer Engineering student at Kocaeli University. I enjoy coding, learning, and creating tangible projects. 💻✨
 
 ## 🎯 Areas of Interest:
@@ -33,4 +37,5 @@ You can check out my projects on this page.
 - **LinkedIn**: [linkedin.com/in/sadikgolpek/](https://www.linkedin.com/in/sadikgolpek/)
 
 Feel free to reach out if you have any questions or want to collaborate!
+
 
