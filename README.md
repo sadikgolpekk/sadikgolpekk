@@ -13,7 +13,7 @@ Yaptığım projelere bu sayfamdan ulaşabilirsiniz.
 
 ## 📫 Bana Ulaşın:
 - **E-posta**: [sadikgolpek@gmail.com](mailto:sadikgolpek@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sadikgolpek/](https://www.linkedin.com/in/sadikgolpek/)
+- **LinkedIn**: [linkedin.com/in/sadikgolpek/](https://www.linkedin.com/in/sadikgolpek/) 
 
 Herhangi bir sorunuz olursa veya iş birliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin!
 
