@@ -1,7 +1,7 @@
 # Merhaba, Ben Sadık Gölpek! 👋
 
 
-Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kod yazmayı, öğrenmeyi ve somut projeler üretmeyi seviyorum. 💻✨
+Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kod yazmayı,bilgisayarın yapısını öğrenmeyi ve somut projeler üretmeyi seviyorum. 💻✨
 
 ## 🎯 İlgi Alanlarım:
 - **Yapay Zeka**: Özellikle bilişimle birleşmiş felsefi yönleriyle ilgileniyorum.
