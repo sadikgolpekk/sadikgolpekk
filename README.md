@@ -1,5 +1,6 @@
 # Merhaba, Ben Sadık Gölpek! 👋
 
+![mantıksaltasarim](https://github.com/user-attachments/assets/42155996-8307-4290-b2c6-1940e9250b78)
 
 Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kod yazmayı,bilgisayarın yapısını öğrenmeyi ve somut projeler üretmeyi seviyorum. 💻✨
 
